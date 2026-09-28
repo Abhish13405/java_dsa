@@ -40,7 +40,7 @@ public class mergetwosortedarray {
             k++;
         }
 
-        // b ke bache hue elements
+        //b ke bache hue elements
         while (j < b.length) {
             c[k] = b[j];
             j++;
